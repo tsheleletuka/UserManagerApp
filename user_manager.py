@@ -2,7 +2,7 @@ import json
 import os
 
 # Step 1: Define the file path
-file_path = "D:/Coding/Python/users2.json"
+file_path = "users.json"
 
 # Step 2: Function to load users from the file
 def load_users():
